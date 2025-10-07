@@ -2,7 +2,7 @@
 title: Datenschutz
 description: 
 published: true
-date: 2025-10-07T10:38:15.539Z
+date: 2025-10-07T13:33:22.785Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-06T22:59:53.182Z
@@ -117,21 +117,19 @@ Die Verarbeitung der personenbezogenen Daten der Nutzer erfolgt auf Grundlage un
 
 Auch im Fall von Auskunftsanfragen und der Geltendmachung von Nutzerrechten, weisen wir darauf hin, dass diese am effektivsten bei den Anbietern geltend gemacht werden können. Nur die Anbieter haben jeweils Zugriff auf die Daten der Nutzer und können direkt entsprechende Maßnahmen ergreifen und Auskünfte geben. Sollten Sie dennoch Hilfe benötigen, dann können Sie sich an uns wenden.
 
-Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland) - Datenschutzerklärung: https://www.facebook.com/about/privacy/ - Opt-Out: https://www.facebook.com/settings?tab=ads und http://www.youronlinechoices.com - Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active
+Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland) - Datenschutzerklärung: https://www.facebook.com/about/privacy/ - Opt-Out: https://www.facebook.com/settings?tab=ads und http://www.youronlinechoices.com
 
-Google/YouTube (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – Datenschutzerklärung: https://policies.google.com/privacy - Opt-Out: https://adssettings.google.com/authenticated, Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active
+Google/YouTube (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – Datenschutzerklärung: https://policies.google.com/privacy - Opt-Out: https://adssettings.google.com/authenticated
 
 Instagram (Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA) – Datenschutzerklärung/Opt-Out: http://instagram.com/about/legal/privacy
 
-Twitter (Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA) - Datenschutzerklärung: https://twitter.com/de/privacy - Opt-Out: https://twitter.com/personalization - Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active
+X (X Corp., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA) - Datenschutzerklärung: https://x.com/de/privacy - Opt-Out: https://x.com/personalization
 
 Twitch (Twitch Interactive, Inc., 350 Bush Street, 2nd Floor, San Francisco, CA 94104, USA) - Datenschutzerklärung: https://www.twitch.tv/p/de-de/legal/privacy-policy - Opt-Out: https://www.twitch.tv/p/de-de/legal/privacy-choices
 
-Mixer/Microsoft (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA) - Datenschutzerklärung/Opt-Out: https://mixer.com/about/privacy - Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active
-
 Pinterest (Pinterest Inc., 635 High Street, Palo Alto, CA, 94301, USA) – Datenschutzerklärung/Opt-Out: https://about.pinterest.com/de/privacy-policy
 
-LinkedIn (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland) - Datenschutzerklärung: https://www.linkedin.com/legal/privacy-policy - Opt-Out: https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out - Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&status=Active
+LinkedIn (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland) - Datenschutzerklärung: https://www.linkedin.com/legal/privacy-policy - Opt-Out: https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out
 
 Xing (XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland) - Datenschutzerklärung/Opt-Out: https://privacy.xing.com/de/datenschutzerklaerung
 
@@ -199,29 +197,17 @@ Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der 
 
 Wenn ein Nutzer Facebookmitglied ist und nicht möchte, dass Facebook über dieses Onlineangebot Daten über ihn sammelt und mit seinen bei Facebook gespeicherten Mitgliedsdaten verknüpft, muss er sich vor der Nutzung unseres Onlineangebotes bei Facebook ausloggen und seine Cookies löschen. Weitere Einstellungen und Widersprüche zur Nutzung von Daten für Werbezwecke, sind innerhalb der Facebook-Profileinstellungen möglich: https://www.facebook.com/settings?tab=ads oder über die US-amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite http://www.youronlinechoices.com/. Die Einstellungen erfolgen plattformunabhängig, d.h. sie werden für alle Geräte, wie Desktopcomputer oder mobile Geräte übernommen.
 
-# 20. Reichweitenanalyse mit IVW & AGOF & ComScore
-
-Wir betreiben selbst Marktforschung oder beteiligen uns an Studien unabhängiger Marktforschungspartner, wie z. B. Internet facts der AGOF e.V. (Arbeitsgemeinschaft Online Forschung), W3B-Studie von Fittkau & Maaß oder der Firma INFOnline. Zum Teil wird bei diesen Studien auf Ihrem PC eine beliebige Zeichenfolge in einem Cookie gespeichert. Diese Zeichenfolge wird zufällig gebildet und ist statistisch eindeutig. Sie kann aber keiner bestimmten Person zugeordnet werden und ist somit anonym. Unser berechtigtes Interesse ergibt sich aus der wirtschaftlichen Verwertbarkeit der sich aus den Statistiken und Nutzerkategorien ergebenden Erkenntnisse und dem Marktwert unserer Webseite auch in direktem Vergleich mit Webseiten Dritter der sich anhand der Statistiken ermitteln lässt.
-Darüber hinaus haben wir ein berechtigtes Interesse daran, die pseudonymisierten Daten der INFOnline, der AGOF und der IVW zum Zwecke der Marktforschung (AGOF, agma) und für statistische Zwecke (INFOnline, IVW) zur Verfügung zu stellen. Weiterhin haben wir ein berechtigtes Interesse daran, die pseudonymisierten Daten der INFOnline zur Weiterentwicklung und Bereitstellung interessengerechter Werbemittel zur Verfügung zu stellen.
-Das Setzen eines solchen Cookies hat technische Gründe und dient z.B. dazu, Marktforschungsstudien zu erstellen, die Aufschluss über die Nutzung von Internetangeboten geben. Wir arbeiten ausschließlich mit Partner zusammen, die sich an die Regelungen des DSGVO, des BDSG und anderer gesetzlicher Vorschriften im Zusammenhang mit dem Datenschutz gebunden fühlen und insbesondere die geeigneten Maßnahmen gem. Art 32 DSGVO in technischer und organisatorischer Hinsicht treffen.
-Sie haben aber die Möglichkeit durch Setzen eines "Opt-out-Cookies" der Nutzung des skalierbaren zentralen Messsystems (SZM) der AGOF und INFOnline zu widersprechen. Wählen Sie hierzu folgenden Link: https://optout.ioam.de
-Nähere Informationen erhalten Sie unter https://www.infonline.de/datenschutz/benutzer/ bzw. https://www.agof.de/datenschutz-allgemein/
-Um einen Ausschluss von der Messung zu garantieren, ist es technisch notwendig, ein Cookie zu setzen. Sollten Sie die Cookies in Ihrem Browser löschen, ist es notwendig, den Opt-Out-Vorgang unter dem oben genannten Link zu wiederholen.
-
-ScorecardResearch, ein Service von Full Circle Studies, Inc. und Teil der comScore, Inc. Marktforschungsgruppe, erfasst im Rahmen von comScores weitgefassten Marktforschungsbemühungen digitale Verbraucherverhaltensdaten, die Informationen über Aktivitäten auf Computer oder Geräten, Onlineaktivitäten, Videostreaming-Aktivitäten und sonstige Aktivitäten enthalten können. ComScore, Inc. erfüllt die Datenschutzabkommen EU-U.S. Privacy Shield (EU-US-Datenschutzschild) und Swiss-U.S. Privacy Shield, wie vom U.S. Department of Commerce (US-Handelsministerium) hinsichtlich der Erhebung, Nutzung und Speicherung von personenbezogenen Daten aus dem Europäischen Wirtschaftsraum und der Schweiz in den USA dargelegt. Weitere Informationen finden Sie in deren Erklärung „EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Statement“ https://www.comscore.com/content/download/39269/2261569/file/DE-Privacy+Shield+Statement+-+Comscore.pdf? Scorecard, weitere Informationen: http://www.scorecardresearch.com/about.aspx?newLanguage=3?
-Scorecard-OptOut: http://www.scorecardresearch.com/preferences.aspx?newLanguage=3
-
-# 21. Externe Links und Affiliate-Partnerprogramme
+# 20. Externe Links und Affiliate-Partnerprogramme
 
 Wir sind auf Grundlage unserer berechtigten Interessen (d.h. Interesse am wirtschaftlichen Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Teilnehmer an Partnerprogrammen, um durch die Platzierung von Links und anderer Werbeanzeigen eine Provision verdienen zu können. Über nutzerunabhängige Kennungen kann der jeweilige Partner die Herkunft der Bestellungen nachvollziehen. Unter anderem kann der Partner erkennen, dass Sie den Partnerlink auf dieser Website geklickt haben. Gegebenenfalls setzt der Partner auf seinen eigenen Internetseiten dann eigene Cookies auf seiner Website innerhalb seines eigenen Verantwortungsbereichs ein; wir haben auf diese auf Drittseiten gegebenenfalls erhobenen personenbezogenen Daten keinen Zugriff.
 
 Unser Angebot enthält Links zu anderen Websites. Als Anbieter sind wir für eigene Inhalte nach den allgemeinen Gesetzen verantwortlich. Für fremde Inhalte, die erkennbar über Links zur Nutzung bereitgestellt werden, übernehmen wir keine Verantwortung und machen uns deren Inhalt nicht zu Eigen. Wir haben keinen Einfluss darauf, dass die Betreiber anderer Websites die Datenschutzbestimmungen einhalten und ob und gegebenenfalls welchen personenbezogenen Daten erhoben werden.
 
-# 22. Sentry
+# 21. Sentry
 
 Wir verwenden den Dienst Sentry (Sentry, 1501 Mariposa St #408, San Francisco, CA 94107, USA), um die technische Stabilität unseres Dienstes durch Überwachung der Systemstabilität und Ermittlung von Codefehlern zu verbessern. Sentry dient alleine diesen Zielen und wertet keine Daten zu Werbezwecken aus. Die Daten der Nutzer, wie z.B. Angaben zum Gerät oder Fehlerzeitpunkt werden anonym erhoben und nicht personenbezogen genutzt sowie anschließend gelöscht. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Sentry: https://sentry.io/privacy/
 
-# 23. Braintree und PayPal
+# 22. Braintree und PayPal
 
 Wenn Sie bei uns eine Bestellung durchführen oder uns mit einer Dienstleistung beauftragen, werden Ihre persönliche Daten ohne Ihre separate Einwilligung in dem Maße verwendet, die für die Vertragserfüllung oder Erbingung der Dienstleistung notwendig ist. Für die Vertragsabwicklung und die Erbingung der Dienstleistung setzen wir für die Zahlungsabwicklung die Service-Dienstleister „PayPal“ und „Braintree“ ein.
 
@@ -229,7 +215,7 @@ PayPal ist ein Unternehmen der PayPal (Europe) S.à r.l. et Cie, S.C.A. 22-24 Bo
 
 Braintree ist eine Unternehmen von PayPal, Inc. welches Kreditkartenzahlungen abwickelt. Ihre personenbezogenen Daten werden ausschließlich zum Zwecke der Abwicklung der Online-Bestellung an „Braintree“ weitergegeben. Die Datenschutzbestimmungen sind mit jenen von PayPal identisch. Details zum Datenschutz bei Braintree finden Sie hier: https://www.paypal.com/us/webapps/mpp/ua/privacy-full
 
-# 24. Outbrain Marketing und Remarketing
+# 23. Outbrain Marketing und Remarketing
 
 Wir benutzen auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Services der Outbrain UK Limited, 5 New Bridge Street, London, EC4V 6JA, UK. Dafür laden wir von einem Outbrain-Server ein Modul auf unserer Internetangebot, um inhaltliche Empfehlungen und Anzeigen einzubinden. Mittels Tracking-Pixel, Cookie oder vergleichbaren Verfahren erfasst Outbrain dabei das Nutzungsverhalten, mit denen wir auf unserer Website Zielgruppen für Werbeanzeigen auf unseren und Internetseiten von Dritten, die Outbrain einsetzen, erstellen, Werbung an diese Zielgruppen ausspielen und die Wirksamkeit dieser Werbeanzeigen messen können.
 
@@ -237,7 +223,7 @@ Beim Aufruf unser Website registriert Outbrain für jeden Kombination aus Besuch
 
 Mehr Infos zu den erstellten Profilen und die Möglichkeit zum Abschalten der der Personalisierung von Inhalten und Anzeigen hier: Bei Outbrain das pro Device und Browser erstellte Profil einsehen oder die Personalisierung abschalten - Datenschutzerklärung von Outbrain lesen
 
-# 25. Einbindung von Diensten und Inhalten Dritter funktionaler Anbieter
+# 24. Einbindung von Diensten und Inhalten Dritter funktionaler Anbieter
 
 Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und Services, wie z.B. Videos oder Schriftarten einzubinden (nachfolgend einheitlich bezeichnet als “Inhalte”). Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer kennen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden können.
 
