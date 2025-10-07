@@ -2,7 +2,7 @@
 title: Datenschutz
 description: 
 published: true
-date: 2025-10-07T13:33:22.785Z
+date: 2025-10-07T13:46:17.962Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-06T22:59:53.182Z
@@ -233,7 +233,7 @@ Externe Schriftarten von Google, LLC., https://www.google.com/fonts („Google F
 
 Videos der Plattform “YouTube” des Drittanbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Datenschutzerklärung/Opt-Out: https://policies.google.com/privacy
 
-Innerhalb unseres Onlineangebotes können Funktionen des Dienstes, bzw. der Plattform Twitter eingebunden (nachfolgend bezeichnet als „Twitter“). Twitter ist ein Angebot der Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Die Funktionen beinhalten die Darstellung unserer Beiträge innerhalb von Twitter innerhalb unseres Onlineangebotes, die Verknüpfung zu unserem Profil bei Twitter sowie die Möglichkeit mit den Beiträgen und den Funktionen von Twitter zu interagieren, als auch zu messen, ob Nutzer über die von uns bei Twitter geschalteten Werbeanzeigen auf unser Onlineangebot gelangen (sog. Conversion-Messung). Twitter ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active). Datenschutzerklärung: https://twitter.com/de/privacy, Opt-Out: https://twitter.com/personalization.
+Innerhalb unseres Onlineangebotes können Funktionen des Dienstes, bzw. der Plattform X eingebunden (nachfolgend bezeichnet als „X“). Twitter ist ein Angebot der X Corp., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Die Funktionen beinhalten die Darstellung unserer Beiträge innerhalb von Twitter innerhalb unseres Onlineangebotes, die Verknüpfung zu unserem Profil bei X sowie die Möglichkeit mit den Beiträgen und den Funktionen von X zu interagieren, als auch zu messen, ob Nutzer über die von uns bei X geschalteten Werbeanzeigen auf unser Onlineangebot gelangen (sog. Conversion-Messung). X ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten. Datenschutzerklärung: https://twitter.com/de/privacy, Opt-Out: https://twitter.com/personalization.
 
 Webanalyse und Optimierung mit Hilfe des Dienstes Hotjar, des Drittanbieters Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe. Mit Hotjar lassen sich Bewegungen auf den Webseiten, auf denen Hotjar eingesetzt wird, nachvollziehen (sog. Heatmaps). So ist beispielsweise erkennbar, wie weit Nutzer scrollen und welche Schaltflächen die Nutzer wie oft anklicken. Ferner werden technische Daten wie gewählte Sprache, System, Bildschirmauflösung und Browserart erfasst. Hierbei können, zumindest vorübergehend während des Besuchs auf unserer Webseite Profile der Nutzer erstellt werden. Weiterhin ist es mithilfe von Hotjar auch möglich, Feedback direkt von den Nutzern der Website einzuholen. Auf diese Weise erlangen wir wertvolle Informationen, um unsere Websites noch schneller und kundenfreundlicher zu gestalten. Datenschutzerklärung: https://www.hotjar.com/privacy. Opt-Out: https://www.hotjar.com/opt-out.
 
