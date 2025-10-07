@@ -2,13 +2,16 @@
 title: Datenschutz
 description: 
 published: true
-date: 2025-10-06T22:59:55.392Z
+date: 2025-10-07T10:10:15.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-06T22:59:53.182Z
 ---
 
-Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf. (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „personenbezogene Daten“ oder deren „Verarbeitung“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
+> Der aktuelle Stand der Datenschutzerklärung kann links eingesehen werden.
+{.is-info}
+
+Diese Datenschutzerklärung klärt Euch über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf. (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „personenbezogene Daten“ oder deren „Verarbeitung“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 
 # 1. Maßgebliche Rechtsgrundlagen
 
@@ -249,5 +252,3 @@ Innerhalb unseres Onlineangebotes können Funktionen des Dienstes, bzw. der Plat
 Webanalyse und Optimierung mit Hilfe des Dienstes Hotjar, des Drittanbieters Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe. Mit Hotjar lassen sich Bewegungen auf den Webseiten, auf denen Hotjar eingesetzt wird, nachvollziehen (sog. Heatmaps). So ist beispielsweise erkennbar, wie weit Nutzer scrollen und welche Schaltflächen die Nutzer wie oft anklicken. Ferner werden technische Daten wie gewählte Sprache, System, Bildschirmauflösung und Browserart erfasst. Hierbei können, zumindest vorübergehend während des Besuchs auf unserer Webseite Profile der Nutzer erstellt werden. Weiterhin ist es mithilfe von Hotjar auch möglich, Feedback direkt von den Nutzern der Website einzuholen. Auf diese Weise erlangen wir wertvolle Informationen, um unsere Websites noch schneller und kundenfreundlicher zu gestalten. Datenschutzerklärung: https://www.hotjar.com/privacy. Opt-Out: https://www.hotjar.com/opt-out.
 
 Externer Code des JavaScript-Frameworks “jQuery”, bereitgestellt durch die Dritt-Anbieter GoogleAPI, https://ajax.googleapis.com, jsDelivr https://www.jsdelivr.com/ und RawGit https://rawgit.com/.
-
-Stand: 07.10.2025
