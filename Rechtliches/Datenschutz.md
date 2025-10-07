@@ -2,13 +2,13 @@
 title: Datenschutz
 description: 
 published: true
-date: 2025-10-07T10:10:15.659Z
+date: 2025-10-07T10:12:10.769Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-06T22:59:53.182Z
 ---
 
-> Der aktuelle Stand der Datenschutzerklärung kann links eingesehen werden.
+> Der aktuelle Stand der Datenschutzerklärung kann im Kasten links unten eingesehen werden.
 {.is-info}
 
 Diese Datenschutzerklärung klärt Euch über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf. (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „personenbezogene Daten“ oder deren „Verarbeitung“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
