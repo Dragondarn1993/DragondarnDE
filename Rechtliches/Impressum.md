@@ -2,7 +2,7 @@
 title: Impressum
 description: 
 published: true
-date: 2025-10-06T23:53:19.345Z
+date: 2025-10-06T23:53:21.477Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-06T22:31:46.116Z

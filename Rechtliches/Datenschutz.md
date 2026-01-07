@@ -2,7 +2,7 @@
 title: Datenschutz
 description: 
 published: true
-date: 2025-10-07T13:46:17.962Z
+date: 2025-10-07T13:46:20.111Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-06T22:59:53.182Z
